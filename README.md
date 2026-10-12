@@ -1,6 +1,6 @@
 # hydra-sl-prediction
-Code accompanying "Genome-wide synthetic lethality prediction in breast cancer identifies VEGFA as a recurrent angiogenic vulnerability hub."
-Submitted to PLOS ONE.
+Code accompanying "Genome-wide synthetic lethality prediction in breast cancer using biologically-informed networks."
+In Revisions at PLOS ONE.
 
 ## Environment
 - Python 3.x, PyTorch 2.2.1 (CUDA 11.8), PyTorch Geometric
